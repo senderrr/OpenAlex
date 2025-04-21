@@ -1,69 +1,14 @@
-
-,publisher,Dataset
-0,Faculty Opinions Ltd,1682
-1,Data Repository for the University of Minnesota (DRUM),774
-2,Harvard Dataverse,590
-3,Dryad,528
-4,Zenodo,387
-5,figshare,231
-6,Neotoma Paleoecological Database,210
-7,Qualitative Data Repository,145
-8,ICPSR - Interuniversity Consortium for Political and Social Research,99
-9,Taylor & Francis,52
-10,NASA Space Physics Data Facility,29
-11,ACSS Dataverse,27
-12,Borealis,20
-13,CSIRO,14
-14,"Authorea, Inc.",13
-15,"Geochemistry, Geophysics, Geosystems",12
-16,Recherche Data Gouv,11
-17,MassIVE,11
-18,Biological and Chemical Oceanography Data Management Office (BCO-DMO),10
-19,IEEE DataPort,10
-20,AmeriFlux; University of Minnesota; USDA-ARS,10
-21,DaRUS,10
-22,SciELO journals,6
-23,G-Node,6
-24,DataverseNL,6
-25,Future Science Group,4
-26,USDA Forest Service,4
-27,Science Data Bank,3
-28,GFZ Data Services,3
-29,Open Data Commons for Spinal Cord Injury (ODC-SCI),3
-30,"National Renewable Energy Laboratory - Data (NREL-DATA), Golden, CO (United States); National Renewable Energy Laboratory (NREL), Golden, CO (United States)",3
-31,EnviDat,3
-32,ImmPort,3
-33,NOAA Global Monitoring Laboratory,3
-34,NERC Environmental Information Data Centre,3
-35,DOE Joint Genome Institute,3
-36,SAGE Journals,2
-37,UNC Dataverse,2
-38,Penn State Data Commons,2
-39,VTTI,2
-40,CSES - Comparative Study of Electoral Systems,2
-41,GSA Journals,2
-42,KNB Data Repository,2
-43,CyVerse Data Commons,2
-44,Journal of Geophysical Research: Solid Earth,2
-45,Arctic Data Center,2
-46,Environmental System Science Data Infrastructure for a Virtual Ecosystem; AmeriFlux Management Project,2
-47,GESIS Data Archive,2
-48,Forest Service Research Data Archive,1
-49,EOL Data Support. UCAR/NCAR - Earth Observing Laboratory,1
-50,University of St Andrews,1
-51,University of Oxford,1
-52,University of Iowa,1
-53,Environmental System Science Data Infrastructure for a Virtual Ecosystem; AmeriFlux,1
-54,Tectonics,1
-55,Environmental System Science Data Infrastructure for a Virtual Ecosystem; AmeriFlux Network Management Project,1
-56,"Max Planck Institute for Biogeochemistry, Jena",1
-57,LibGuides dataset: Subject guides at academic libraries,1
-58,Geology,1
-59,AmeriFlux; University of Minnesota; USDA-Forest Service,1
-60,Proceedings of the National Academy of Sciences,1
-61,Global Carbon Project,1
-62,AmeriFlux; University of Minnesota; USDA-Forest Service-International Programs,1
-63,AmeriFlux; University of Minnesota; USDA- Forest Service,1
-64,NSF Arctic Data Center,1
-65,"NOAA Earth System Research Laboratory, Global Monitoring Division",1
-66,"Lawrence Berkeley National Laboratory (LBNL), Berkeley, CA (United States)",1
+,Repository,False,True,OA %,Total
+0,Faculty Opinions – Post-Publication Peer Review of the Biomedical Literature,1039.0,379.0,0.26727785613540195,1418.0
+1,Default Digital Object Group,47.0,9.0,0.16071428571428573,56.0
+2,OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information),26.0,0.0,0.0,26.0
+3,IUPAC Standards Online,6.0,26.0,0.8125,32.0
+4,PMC,5.0,0.0,0.0,5.0
+5,PsycEXTRA Dataset,2.0,8.0,0.8,10.0
+6,The SHAFR Guide Online,2.0,0.0,0.0,2.0
+7,Figshare,0.0,12.0,1.0,12.0
+8,Harvard Dataverse,0.0,362.0,1.0,362.0
+9,Pancreapedia: The Exocrine Pancreas Knowledge Base,0.0,5.0,1.0,5.0
+10,Zenodo (CERN European Organization for Nuclear Research),0.0,102.0,1.0,102.0
+11,energyo,0.0,1.0,1.0,1.0
+12,immuneACCESS,0.0,1.0,1.0,1.0
