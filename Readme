@@ -1,1 +1,17 @@
+# README 
+
+## Notebooks:
+### OpenAlex.ipyn: notebook to webscrape and clean Dataset
+### OAVisuals.ipynb: notebook to create data visualizations
+### OpenAlexExplore.ipyn: notebook to explore how to use OpenAlex API
+
+## Box Zip Folder: boxfolder to all large files
+### UMN authors only, updated 6/4/2025 https://umn.box.com/s/6ghgbbygb8c6q8q5qyvi99gqtx6kxwg0
+### OpenAlexData, updated 4/21/2025 https://umn.box.com/s/wh1lcfsdet9f8qg1lwufwhhmoeji5sml
+###  DCN authors, 02/21/2025 https://umn.box.com/s/h9e00zcu3c1pr83wp54u1qdfuj2e8unn (does not limit records to ror, so that is why there are more and includes non UMN authors)
+###  DCN OpenAlexData v2 02/21/2025 2nd version, https://umn.box.com/s/nvaafs2nxm5v6k5ci4nn1o24lzwrekcd
+###  DCN OpenAlexData v1 01/15/2025 1st version, https://umn.box.com/s/h9e00zcu3c1pr83wp54u1qdfuj2e8unn
+
+## gitignore: need to ignore large file upload to GitHub
+
 
